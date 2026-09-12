@@ -238,3 +238,6 @@ This repository serves as the official landing page for Zoo Tycoon 2. The softwa
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Zoo Tycoon 2 today!**
+
+---
+**Last updated:** 2026-09-12 01:47:08 UTC
