@@ -240,4 +240,4 @@ This repository serves as the official landing page for Zoo Tycoon 2. The softwa
 **Get the most recent version of Zoo Tycoon 2 today!**
 
 ---
-**Last updated:** 2026-09-15 23:14:22 UTC
+**Last updated:** 2026-09-16 01:56:25 UTC
